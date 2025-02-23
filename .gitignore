@@ -5,12 +5,16 @@ node_modules
 build/
 lib/
 bin/
+experimental/
 
 # Generated files
 **/*.tsbuildinfo
 *.api.json
 *.tgz
+*.out
+*.txt
 yarn.lock
+package-lock.json
 .docusaurus/
 .cache-loader
 test/output-*/
