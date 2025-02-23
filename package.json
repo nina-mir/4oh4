@@ -1,0 +1,16 @@
+{
+  "name": "puppeteer-project",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@duckduckgo/autoconsent": "^1.0.8",
+    "puppeteer": "^24.2.1"
+  }
+}

@@ -1,0 +1,48 @@
+Error scraping www.adobe.com: Error: net::ERR_HTTP2_PROTOCOL_ERROR at https://www.adobe.com/trans-rights-are-human-rights
+    at navigate (C:\Users\ninam\Documents\coding\puppeteer-project\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\Frame.js:183:27)
+    at async Deferred.race (C:\Users\ninam\Documents\coding\puppeteer-project\node_modules\puppeteer-core\lib\cjs\puppeteer\util\Deferred.js:36:20)
+    at async CdpFrame.goto (C:\Users\ninam\Documents\coding\puppeteer-project\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\Frame.js:149:25)
+    at async CdpPage.goto (C:\Users\ninam\Documents\coding\puppeteer-project\node_modules\puppeteer-core\lib\cjs\puppeteer\api\Page.js:574:20)
+    at async C:\Users\ninam\Documents\coding\puppeteer-project\screenshot.js:40:13
+Error scraping www.amd.com: Error: net::ERR_HTTP2_PROTOCOL_ERROR at https://www.amd.com/trans-rights-are-human-rights
+    at navigate (C:\Users\ninam\Documents\coding\puppeteer-project\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\Frame.js:183:27)
+    at async Deferred.race (C:\Users\ninam\Documents\coding\puppeteer-project\node_modules\puppeteer-core\lib\cjs\puppeteer\util\Deferred.js:36:20)
+    at async CdpFrame.goto (C:\Users\ninam\Documents\coding\puppeteer-project\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\Frame.js:149:25)
+    at async CdpPage.goto (C:\Users\ninam\Documents\coding\puppeteer-project\node_modules\puppeteer-core\lib\cjs\puppeteer\api\Page.js:574:20)
+    at async C:\Users\ninam\Documents\coding\puppeteer-project\screenshot.js:40:13
+Error scraping www.panasonic.com: TimeoutError: Navigation timeout of 30000 ms exceeded
+    at new Deferred (C:\Users\ninam\Documents\coding\puppeteer-project\node_modules\puppeteer-core\lib\cjs\puppeteer\util\Deferred.js:60:34)
+    at Deferred.create (C:\Users\ninam\Documents\coding\puppeteer-project\node_modules\puppeteer-core\lib\cjs\puppeteer\util\Deferred.js:21:16)
+    at new LifecycleWatcher (C:\Users\ninam\Documents\coding\puppeteer-project\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\LifecycleWatcher.js:69:60)
+    at CdpFrame.goto (C:\Users\ninam\Documents\coding\puppeteer-project\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\Frame.js:148:29)
+    at CdpFrame.<anonymous> (C:\Users\ninam\Documents\coding\puppeteer-project\node_modules\puppeteer-core\lib\cjs\puppeteer\util\decorators.js:109:27)
+    at CdpPage.goto (C:\Users\ninam\Documents\coding\puppeteer-project\node_modules\puppeteer-core\lib\cjs\puppeteer\api\Page.js:574:43)
+    at C:\Users\ninam\Documents\coding\puppeteer-project\screenshot.js:40:24
+Error scraping www.acer.com: Error: net::ERR_HTTP2_PROTOCOL_ERROR at https://www.acer.com/trans-rights-are-human-rights
+    at navigate (C:\Users\ninam\Documents\coding\puppeteer-project\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\Frame.js:183:27)
+    at async Deferred.race (C:\Users\ninam\Documents\coding\puppeteer-project\node_modules\puppeteer-core\lib\cjs\puppeteer\util\Deferred.js:36:20)
+    at async CdpFrame.goto (C:\Users\ninam\Documents\coding\puppeteer-project\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\Frame.js:149:25)
+    at async CdpPage.goto (C:\Users\ninam\Documents\coding\puppeteer-project\node_modules\puppeteer-core\lib\cjs\puppeteer\api\Page.js:574:20)
+    at async C:\Users\ninam\Documents\coding\puppeteer-project\screenshot.js:40:13
+Error scraping www.ea.com: Error: net::ERR_HTTP2_PROTOCOL_ERROR at https://www.ea.com/trans-rights-are-human-rights
+    at navigate (C:\Users\ninam\Documents\coding\puppeteer-project\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\Frame.js:183:27)
+    at async Deferred.race (C:\Users\ninam\Documents\coding\puppeteer-project\node_modules\puppeteer-core\lib\cjs\puppeteer\util\Deferred.js:36:20)
+    at async CdpFrame.goto (C:\Users\ninam\Documents\coding\puppeteer-project\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\Frame.js:149:25)
+    at async CdpPage.goto (C:\Users\ninam\Documents\coding\puppeteer-project\node_modules\puppeteer-core\lib\cjs\puppeteer\api\Page.js:574:20)
+    at async C:\Users\ninam\Documents\coding\puppeteer-project\screenshot.js:40:13
+Error scraping www.activisionblizzard.com: TimeoutError: Navigation timeout of 30000 ms exceeded
+    at new Deferred (C:\Users\ninam\Documents\coding\puppeteer-project\node_modules\puppeteer-core\lib\cjs\puppeteer\util\Deferred.js:60:34)
+    at Deferred.create (C:\Users\ninam\Documents\coding\puppeteer-project\node_modules\puppeteer-core\lib\cjs\puppeteer\util\Deferred.js:21:16)
+    at new LifecycleWatcher (C:\Users\ninam\Documents\coding\puppeteer-project\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\LifecycleWatcher.js:69:60)
+    at CdpFrame.goto (C:\Users\ninam\Documents\coding\puppeteer-project\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\Frame.js:148:29)
+    at CdpFrame.<anonymous> (C:\Users\ninam\Documents\coding\puppeteer-project\node_modules\puppeteer-core\lib\cjs\puppeteer\util\decorators.js:109:27)
+    at CdpPage.goto (C:\Users\ninam\Documents\coding\puppeteer-project\node_modules\puppeteer-core\lib\cjs\puppeteer\api\Page.js:574:43)
+    at C:\Users\ninam\Documents\coding\puppeteer-project\screenshot.js:40:24
+Error scraping www.akamai.com: TimeoutError: Navigation timeout of 30000 ms exceeded
+    at new Deferred (C:\Users\ninam\Documents\coding\puppeteer-project\node_modules\puppeteer-core\lib\cjs\puppeteer\util\Deferred.js:60:34)
+    at Deferred.create (C:\Users\ninam\Documents\coding\puppeteer-project\node_modules\puppeteer-core\lib\cjs\puppeteer\util\Deferred.js:21:16)
+    at new LifecycleWatcher (C:\Users\ninam\Documents\coding\puppeteer-project\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\LifecycleWatcher.js:69:60)
+    at CdpFrame.goto (C:\Users\ninam\Documents\coding\puppeteer-project\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\Frame.js:148:29)
+    at CdpFrame.<anonymous> (C:\Users\ninam\Documents\coding\puppeteer-project\node_modules\puppeteer-core\lib\cjs\puppeteer\util\decorators.js:109:27)
+    at CdpPage.goto (C:\Users\ninam\Documents\coding\puppeteer-project\node_modules\puppeteer-core\lib\cjs\puppeteer\api\Page.js:574:43)
+    at C:\Users\ninam\Documents\coding\puppeteer-project\screenshot.js:40:24

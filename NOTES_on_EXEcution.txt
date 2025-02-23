@@ -1,0 +1,13 @@
+node screenshot.js > "$(Get-Date -Format 'MM-dd-yyyy').out"
+| Out-File -FilePath "$(Get-Date -Format 'MM-dd-yyyy').out" -Encoding UTF8
+
+https://screenshotone.com/blog/how-to-hide-cookie-banners-when-taking-a-screenshot-with-puppeteer/#a-custom-but-generic-logic-for-every-site
+
+https://www.webshare.io/academy-article/puppeteer-viewport
+
+// source: 
+// https://screenshotone.com/blog/how-to-hide-cookie-banners-when-taking-a-screenshot-with-puppeteer/#a-custom-but-generic-logic-for-every-site
+// extension source: 
+// https://stackoverflow.com/questions/59618456/pupeteer-how-can-i-accept-cookie-consent-prompts-automatically-for-any-url
+// https://gist.github.com/jirivrany/fa16f25d25142a074ab3ca14fe987eee
+

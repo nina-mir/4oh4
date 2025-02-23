@@ -1,0 +1,10 @@
+Error: net::ERR_HTTP2_PROTOCOL_ERROR at https://www.adobe.com/trans-rights-are-human-rights
+Error: net::ERR_HTTP2_PROTOCOL_ERROR at https://www.amd.com/trans-rights-are-human-rights
+TimeoutError: Navigation timeout of 60000 ms exceeded
+Error: net::ERR_HTTP2_PROTOCOL_ERROR at https://www.acer.com/trans-rights-are-human-rights
+TimeoutError: Navigation timeout of 60000 ms exceeded
+Error: ENOENT: no such file or directory, open 'C:\Users\ninam\Documents\coding\puppeteer-project\scrapedData\screenshots-autoconsent\www.blackberry.com\us\en.png'
+Error: net::ERR_HTTP2_PROTOCOL_ERROR at https://www.ea.com/trans-rights-are-human-rights
+TimeoutError: Navigation timeout of 60000 ms exceeded
+TimeoutError: Navigation timeout of 60000 ms exceeded
+TimeoutError: Navigation timeout of 60000 ms exceeded

@@ -1,0 +1,446 @@
+[
+  {
+    "name": "Meta",
+    "url": "www.meta.com"
+  },
+  {
+    "name": "Google",
+    "url": "www.google.com"
+  },
+  {
+    "name": "Microsoft",
+    "url": "www.microsoft.com"
+  },
+  {
+    "name": "Apple",
+    "url": "www.apple.com"
+  },
+  {
+    "name": "TikTok",
+    "url": "www.tiktok.com"
+  },
+  {
+    "name": "YouTube",
+    "url": "www.youtube.com"
+  },
+  {
+    "name": "WhatsApp",
+    "url": "www.whatsapp.com"
+  },
+  {
+    "name": "WeChat",
+    "url": "www.wechat.com"
+  },
+  {
+    "name": "Instagram",
+    "url": "www.instagram.com"
+  },
+  {
+    "name": "LinkedIn",
+    "url": "www.linkedin.com"
+  },
+  {
+    "name": "Twitter",
+    "url": "www.twitter.com"
+  },
+  {
+    "name": "Netflix",
+    "url": "www.netflix.com"
+  },
+  {
+    "name": "Amazon",
+    "url": "www.amazon.com"
+  },
+  {
+    "name": "Spotify",
+    "url": "www.spotify.com"
+  },
+  {
+    "name": "Snapchat",
+    "url": "www.snapchat.com"
+  },
+  {
+    "name": "Pinterest",
+    "url": "www.pinterest.com"
+  },
+  {
+    "name": "Telegram",
+    "url": "www.telegram.org"
+  },
+  {
+    "name": "Discord",
+    "url": "www.discord.com"
+  },
+  {
+    "name": "Reddit",
+    "url": "www.reddit.com"
+  },
+  {
+    "name": "Line",
+    "url": "www.line.me"
+  },
+  {
+    "name": "Zoom",
+    "url": "www.zoom.us"
+  },
+  {
+    "name": "Alibaba",
+    "url": "www.alibaba.com"
+  },
+  {
+    "name": "Twitch",
+    "url": "www.twitch.tv"
+  },
+  {
+    "name": "Adobe",
+    "url": "www.adobe.com"
+  },
+  {
+    "name": "PayPal",
+    "url": "www.paypal.com"
+  },
+  {
+    "name": "Uber",
+    "url": "www.uber.com"
+  },
+  {
+    "name": "Salesforce",
+    "url": "www.salesforce.com"
+  },
+  {
+    "name": "Samsung",
+    "url": "www.samsung.com"
+  },
+  {
+    "name": "Tencent",
+    "url": "www.tencent.com"
+  },
+  {
+    "name": "Airbnb",
+    "url": "www.airbnb.com"
+  },
+  {
+    "name": "DoorDash",
+    "url": "www.doordash.com"
+  },
+  {
+    "name": "Shopify",
+    "url": "www.shopify.com"
+  },
+  {
+    "name": "Slack",
+    "url": "www.slack.com"
+  },
+  {
+    "name": "Square",
+    "url": "www.squareup.com"
+  },
+  {
+    "name": "Twitter",
+    "url": "www.twitter.com"
+  },
+  {
+    "name": "eBay",
+    "url": "www.ebay.com"
+  },
+  {
+    "name": "Intel",
+    "url": "www.intel.com"
+  },
+  {
+    "name": "AMD",
+    "url": "www.amd.com"
+  },
+  {
+    "name": "NVIDIA",
+    "url": "www.nvidia.com"
+  },
+  {
+    "name": "Oracle",
+    "url": "www.oracle.com"
+  },
+  {
+    "name": "IBM",
+    "url": "www.ibm.com"
+  },
+  {
+    "name": "Dell",
+    "url": "www.dell.com"
+  },
+  {
+    "name": "HP",
+    "url": "www.hp.com"
+  },
+  {
+    "name": "Cisco",
+    "url": "www.cisco.com"
+  },
+  {
+    "name": "Sony",
+    "url": "www.sony.com"
+  },
+  {
+    "name": "LG",
+    "url": "www.lg.com"
+  },
+  {
+    "name": "Panasonic",
+    "url": "www.panasonic.com"
+  },
+  {
+    "name": "Philips",
+    "url": "www.philips.com"
+  },
+  {
+    "name": "Siemens",
+    "url": "www.siemens.com"
+  },
+  {
+    "name": "SAP",
+    "url": "www.sap.com"
+  },
+  {
+    "name": "VMware",
+    "url": "www.vmware.com"
+  },
+  {
+    "name": "Qualcomm",
+    "url": "www.qualcomm.com"
+  },
+  {
+    "name": "Texas Instruments",
+    "url": "www.ti.com"
+  },
+  {
+    "name": "Broadcom",
+    "url": "www.broadcom.com"
+  },
+  {
+    "name": "MediaTek",
+    "url": "www.mediatek.com"
+  },
+  {
+    "name": "Micron",
+    "url": "www.micron.com"
+  },
+  {
+    "name": "Western Digital",
+    "url": "www.westerndigital.com"
+  },
+  {
+    "name": "Seagate",
+    "url": "www.seagate.com"
+  },
+  {
+    "name": "Lenovo",
+    "url": "www.lenovo.com"
+  },
+  {
+    "name": "Asus",
+    "url": "www.asus.com"
+  },
+  {
+    "name": "Acer",
+    "url": "www.acer.com"
+  },
+  {
+    "name": "HTC",
+    "url": "www.htc.com"
+  },
+  {
+    "name": "Xiaomi",
+    "url": "www.mi.com"
+  },
+  {
+    "name": "Oppo",
+    "url": "www.oppo.com"
+  },
+  {
+    "name": "Vivo",
+    "url": "www.vivo.com"
+  },
+  {
+    "name": "OnePlus",
+    "url": "www.oneplus.com"
+  },
+  {
+    "name": "Huawei",
+    "url": "www.huawei.com"
+  },
+  {
+    "name": "ZTE",
+    "url": "www.zte.com.cn"
+  },
+  {
+    "name": "Motorola",
+    "url": "www.motorola.com"
+  },
+  {
+    "name": "Nokia",
+    "url": "www.nokia.com"
+  },
+  {
+    "name": "BlackBerry",
+    "url": "www.blackberry.com/us/en"
+  },
+  {
+    "name": "Nintendo",
+    "url": "www.nintendo.com"
+  },
+  {
+    "name": "PlayStation",
+    "url": "www.playstation.com"
+  },
+  {
+    "name": "Xbox",
+    "url": "www.xbox.com"
+  },
+  {
+    "name": "Electronic Arts",
+    "url": "www.ea.com"
+  },
+  {
+    "name": "Activision Blizzard",
+    "url": "www.activisionblizzard.com"
+  },
+  {
+    "name": "Ubisoft",
+    "url": "www.ubisoft.com"
+  },
+  {
+    "name": "Take-Two Interactive",
+    "url": "www.take2games.com"
+  },
+  {
+    "name": "Epic Games",
+    "url": "www.epicgames.com"
+  },
+  {
+    "name": "Roblox",
+    "url": "www.roblox.com"
+  },
+  {
+    "name": "Unity",
+    "url": "www.unity.com"
+  },
+  {
+    "name": "MongoDB",
+    "url": "www.mongodb.com"
+  },
+  {
+    "name": "Snowflake",
+    "url": "www.snowflake.com"
+  },
+  {
+    "name": "Palantir",
+    "url": "www.palantir.com"
+  },
+  {
+    "name": "Workday",
+    "url": "www.workday.com"
+  },
+  {
+    "name": "ServiceNow",
+    "url": "www.servicenow.com"
+  },
+  {
+    "name": "Atlassian",
+    "url": "www.atlassian.com"
+  },
+  {
+    "name": "Zendesk",
+    "url": "www.zendesk.com"
+  },
+  {
+    "name": "HubSpot",
+    "url": "www.hubspot.com"
+  },
+  {
+    "name": "Dropbox",
+    "url": "www.dropbox.com"
+  },
+  {
+    "name": "Box",
+    "url": "www.box.com"
+  },
+  {
+    "name": "DocuSign",
+    "url": "www.docusign.com"
+  },
+  {
+    "name": "Zoom",
+    "url": "www.zoom.us"
+  },
+  {
+    "name": "RingCentral",
+    "url": "www.ringcentral.com"
+  },
+  {
+    "name": "Okta",
+    "url": "www.okta.com"
+  },
+  {
+    "name": "CrowdStrike",
+    "url": "www.crowdstrike.com"
+  },
+  {
+    "name": "Zscaler",
+    "url": "www.zscaler.com"
+  },
+  {
+    "name": "Fortinet",
+    "url": "www.fortinet.com"
+  },
+  {
+    "name": "Palo Alto Networks",
+    "url": "www.paloaltonetworks.com"
+  },
+  {
+    "name": "Cloudflare",
+    "url": "www.cloudflare.com"
+  },
+  {
+    "name": "Akamai",
+    "url": "www.akamai.com"
+  },
+  {
+    "name": "Fastly",
+    "url": "www.fastly.com"
+  },
+  {
+    "name": "GitLab",
+    "url": "www.gitlab.com"
+  },
+  {
+    "name": "GitHub",
+    "url": "www.github.com"
+  },
+  {
+    "name": "BitBucket",
+    "url": "www.bitbucket.org"
+  },
+  {
+    "name": "JFrog",
+    "url": "www.jfrog.com"
+  },
+  {
+    "name": "Elastic",
+    "url": "www.elastic.co"
+  },
+  {
+    "name": "Splunk",
+    "url": "www.splunk.com"
+  },
+  {
+    "name": "Datadog",
+    "url": "www.datadoghq.com"
+  },
+  {
+    "name": "New Relic",
+    "url": "www.newrelic.com"
+  }, 
+  {
+    "name": "Activision Blizzard Support",
+    "url": "support.activision.com"
+  }
+]
